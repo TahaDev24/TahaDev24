@@ -82,7 +82,7 @@ GitHub ID: "tahahesaraki2-hue" (https://github.com/tahahesaraki2-hue)
 
 ---
 
-<div align="center">"</>" BUILDING IDEAS INTO SOFTWARE
+<div align="center"></> BUILDING IDEAS INTO SOFTWARE
 
 CODE · CREATE · INNOVATE
 
