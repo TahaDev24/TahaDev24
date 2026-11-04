@@ -5,8 +5,6 @@
 
 توسعه‌دهنده پایتون | طراحی نرم‌افزارهای کاربردی و سیستم‌های هوشمند
 
-"PYTHON"　 "ARTIFICIAL INTELLIGENCE"　 "BOT DEVELOPMENT"
-
 </div>
 
 ---
