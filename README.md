@@ -1,5 +1,6 @@
 <div align="center">👨‍💻 TAHA HASSARAKI
 
+
 🐍 Python Developer | 🤖 AI Developer | 💻 Software Development
 
 توسعه‌دهنده پایتون | طراحی نرم‌افزارهای کاربردی و سیستم‌های هوشمند
@@ -78,7 +79,7 @@
 
 برای مشاهده پروژه‌ها و بررسی کدها از پروفایل GitHub بازدید کنید.
 
-GitHub ID: "tahahesaraki2-hue" (https://github.com/tahahesaraki2-hue)
+GitHub ID: https://github.com/tahahesaraki2-hue
 
 ---
 
