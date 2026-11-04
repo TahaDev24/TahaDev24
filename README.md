@@ -1,4 +1,4 @@
-<div align="center">👨‍💻 TAHA HASSARAKI
+<div align="center">*👨‍💻 TAHA HASSARAKI*
 
 🐍 Python Developer | 🤖 AI Developer | 💻 Software Development
 
@@ -8,7 +8,7 @@
 
 </div>---
 
-👨‍💻 درباره من
+👤 درباره من
 
 برنامه‌نویس پایتون با تجربه توسعه نرم‌افزارهای کاربردی، طراحی ربات‌های هوشمند و تعاملی، پیاده‌سازی سیستم‌های مدیریتی و ساختاردهی پایگاه‌های داده.
 
