@@ -1,4 +1,4 @@
-<div align="center">👨‍💻 TAHA HESARAKI
+<div align="center"># 👨‍💻 TAHA HESARAKI
 
 
 🐍 Python Developer | 🤖 AI Developer | 💻 Software Development
