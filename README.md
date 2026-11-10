@@ -3,79 +3,79 @@
 
 🐍 Python Developer | 🤖 AI Developer | 💻 Software Development
 
-توسعه‌دهنده پایتون | طراحی نرم‌افزارهای کاربردی و سیستم‌های هوشمند
+Python developer focused on building practical software and intelligent systems.
 
 </div>
 
 ---
 
-👤 درباره من
+👤 About Me
 
-برنامه‌نویس پایتون با تجربه توسعه نرم‌افزارهای کاربردی، ربات‌های هوشمند، سیستم‌های مدیریتی و پایگاه‌های داده.
+A Python developer with experience building practical software, intelligent bots, management systems, and databases.
 
-علاقه‌مند به طراحی سیستم‌های پیچیده، حل چالش‌های فنی و تبدیل ایده‌ها به محصولات نرم‌افزاری کاربردی.
+Interested in designing complex systems, solving technical challenges, and turning ideas into useful software products.
 
 ---
 
-⚙️ مهارت‌های فنی
+⚙️ Technical Skills
 
 🐍 Python Development
 
-- توسعه نرم‌افزارهای ساختارمند و چندبخشی
-- برنامه‌نویسی شی‌گرا و خودکارسازی فرایندها
+- Developing structured, multi-component software
+- Object-oriented programming and process automation
 
 🤖 Artificial Intelligence
 
-- کار با APIهای هوش مصنوعی و مدل‌های زبانی
-- طراحی سیستم‌های پاسخ‌گویی هوشمند
+- Working with AI APIs and language models
+- Designing intelligent response systems
 
 ⚡ Bot Development
 
-- توسعه ربات‌های پیام‌رسان بله
-- سیستم‌های مدیریت گروه، بازی و امتیازدهی
-- ضداسپم و فیلترینگ محتوا
+- Developing bots for the Bale messaging platform
+- Group management, gaming, and scoring systems
+- Anti-spam and content filtering
 
 🗄️ Database Development
 
-- طراحی و مدیریت پایگاه داده SQLite
-- مدیریت و پردازش اطلاعات
+- Designing and managing SQLite databases
+- Data management and processing
 
 🖥️ Application Development
 
-- توسعه رابط گرافیکی با Kivy
-- طراحی نرم‌افزارهای کاربردی
+- Developing graphical interfaces with Kivy
+- Designing practical applications
 
 🔧 Development Tools
 
-- Git و GitHub
-- دیباگ، مدیریت نسخه و کار با سرور
+- Git and GitHub
+- Debugging, version control, and working with servers
 
 
 ---
 
-🧠 توانمندی‌های حرفه‌ای
+🧠 Professional Capabilities
 
-- طراحی و توسعه سیستم‌های چندبخشی
-- تحلیل مسائل و حل چالش‌های فنی
-- کار با پروژه‌های پیچیده و ساختارمند
-- توجه به امنیت و قابلیت توسعه نرم‌افزار
-- یادگیری سریع فناوری‌های جدید
-
----
-
-🎯 هدف حرفه‌ای
-
-توسعه نرم‌افزارهای حرفه‌ای، فعالیت روی پروژه‌های واقعی و ساخت سیستم‌های هوشمند با پایتون.
+- Designing and developing multi-component systems
+- Analyzing problems and solving technical challenges
+- Working on complex and structured projects
+- Considering software security and extensibility
+- Learning new technologies quickly
 
 ---
 
-💼 پروژه‌ها و نمونه‌کارها
+🎯 Professional Goal
 
-برای مشاهده پروژه‌ها و بررسی کدها از پروفایل GitHub بازدید کنید.
+Developing professional software, contributing to real-world projects, and building intelligent systems with Python.
+
+---
+
+💼 Projects & Portfolio
+
+Visit my GitHub profile to explore my projects and review the source code.
 
 GitHub ID:
 
- https://github.com/tahahesaraki2-hue
+ https://github.com/TahaDev24
 
 ---
 
