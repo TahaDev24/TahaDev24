@@ -1,96 +1,154 @@
 
-<h1 align="center">TAHA HESARAKI</h1>
+<div align="center">
 
-<p align="center">
-  <strong>🩵 PYTHON DEVELOPER</strong>
-  <br>
-  Software Development · Automation · AI Integration
-</p>
+# TAHA HESARAKI
 
-<p align="center">
-  Building practical software with Python and modern technologies.
-</p>
+### PYTHON DEVELOPER
+
+**SOFTWARE DEVELOPMENT · AUTOMATION · AI INTEGRATION**
+
+Building practical software, intelligent systems, and reliable applications through structured engineering.
+
+<br>
+
+[![Python](https://img.shields.io/badge/Python-Developer-181818?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-Version_Control-181818?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-TahaDev24-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/TahaDev24)
+
+</div>
 
 ---
 
-## 👨‍💻 ABOUT
+## 👨‍💻 PROFESSIONAL PROFILE
 
-Python developer focused on building applications, automation systems, bots, and database-driven software.
+Python developer working across software engineering, application development, automation, and AI integration.
 
-Emphasis on practical implementation, code quality, system reliability, and maintainable solutions.
+Focused on designing structured software systems, implementing practical solutions, integrating external services, and developing reliable applications.
+
+Combining programming fundamentals with database management, API communication, application architecture, and automation to build functional and maintainable software.
 
 ---
 
 ## ⚙️ TECHNICAL SKILLS
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐍 Programming</h3>
-      <ul>
-        <li>Python</li>
-        <li>SQLite</li>
-        <li>JSON</li>
-        <li>API Integration</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Automation</h3>
-      <ul>
-        <li>AI API Integration</li>
-        <li>Language Model Integration</li>
-        <li>Bot Development</li>
-        <li>Workflow Automation</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Application Development</h3>
-      <ul>
-        <li>Kivy</li>
-        <li>GUI Development</li>
-        <li>Application Logic</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Development Tools</h3>
-      <ul>
-        <li>Git</li>
-        <li>GitHub</li>
-        <li>Debugging</li>
-        <li>Project Documentation</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<th align="left">DOMAIN</th>
+<th align="left">TECHNOLOGIES & CAPABILITIES</th>
+</tr>
+<tr>
+<td><strong>🐍 Programming</strong></td>
+<td>Python · Object-Oriented Programming · Modular Architecture · Data Structures · Debugging</td>
+</tr>
+<tr>
+<td><strong>🗄️ Databases</strong></td>
+<td>SQLite · SQL · Database Design · Data Persistence · JSON Processing</td>
+</tr>
+<tr>
+<td><strong>🔗 Backend & APIs</strong></td>
+<td>REST APIs · HTTP Requests · API Integration · Request Handling · External Services</td>
+</tr>
+<tr>
+<td><strong>🤖 AI & Automation</strong></td>
+<td>AI API Integration · Language Models · Bot Development · Workflow Automation</td>
+</tr>
+<tr>
+<td><strong>📱 Application Development</strong></td>
+<td>Kivy · GUI Development · Event-Driven Programming · Application Logic</td>
+</tr>
+<tr>
+<td><strong>🛠️ Development Tools</strong></td>
+<td>Git · GitHub · Version Control · Repository Management · Documentation</td>
+</tr>
 </table>
 
 ---
 
-## 🧩 ENGINEERING
+## 🧠 SOFTWARE ENGINEERING
 
-| Principle | Focus |
+### Code Architecture
+- Modular organization and separation of responsibilities.
+- Reusable components and maintainable code structures.
+- Clear naming conventions and consistent coding practices.
+
+### Data Management
+- Structured database design and query execution.
+- Persistent data storage and retrieval.
+- Data validation and structured data processing.
+
+### Application Reliability
+- Error handling and debugging.
+- Input validation and edge-case consideration.
+- Testing and iterative improvement.
+
+### System Integration
+- Connecting applications to external APIs.
+- Processing HTTP responses and JSON data.
+- Integrating third-party services into software systems.
+
+---
+
+## 🚀 DEVELOPMENT CAPABILITIES
+
+| AREA | SCOPE |
 |:--|:--|
-| 🔹 Code Quality | Readability and maintainability |
-| 🔹 Architecture | Structured and organized code |
-| 🔹 Reliability | Testing and debugging |
-| 🔹 Efficiency | Practical resource management |
-| 🔹 Integration | Connecting APIs and services |
+| **Software Engineering** | Designing and implementing functional applications |
+| **Automation Systems** | Developing bots and automated workflows |
+| **AI Integration** | Connecting intelligent services to applications |
+| **Database Applications** | Building software around structured persistent data |
+| **Application Interfaces** | Developing interactive graphical interfaces |
+| **API-Based Systems** | Connecting software components and external services |
 
 ---
 
-## 🚀 CURRENT FOCUS
+## 🔍 DEVELOPMENT PRINCIPLES
 
-- Improving software architecture
-- Writing cleaner and more maintainable Python code
-- Developing reliable automation systems
-- Integrating AI services into applications
-- Enhancing application performance and functionality
+<details>
+<summary><strong>01 — Maintainability</strong></summary>
+
+Software should remain understandable and manageable as it evolves.
+</details>
+
+<details>
+<summary><strong>02 — Reliability</strong></summary>
+
+Application behavior should be predictable, validated, and properly handled when errors occur.
+</details>
+
+<details>
+<summary><strong>03 — Practical Engineering</strong></summary>
+
+Technical decisions should solve actual problems rather than add unnecessary complexity.
+</details>
+
+<details>
+<summary><strong>04 — Continuous Improvement</strong></summary>
+
+Existing code and systems should be reviewed, tested, optimized, and improved over time.
+</details>
 
 ---
 
-<p align="center">
-  <strong>🩵 BUILD · DEVELOP · INNOVATE</strong>
-  <br><br>
-  <sub>TAHA HESARAKI · PYTHON DEVELOPER</sub>
-</p>
+## 🎯 CURRENT TECHNICAL FOCUS
+
+- Improving Python architecture and software design.
+- Developing maintainable and scalable application structures.
+- Strengthening database design and data handling.
+- Building reliable API-driven applications.
+- Improving automation and AI integrations.
+- Enhancing application performance and stability.
+- Applying better testing and debugging practices.
+
+---
+
+## 🌐 CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Repositories-24292f?style=for-the-badge&logo=github)](https://github.com/TahaDev24)
+
+**TAHA HESARAKI**
+
+<sub>PYTHON DEVELOPER · SOFTWARE DEVELOPMENT</sub>
+
+</div>
