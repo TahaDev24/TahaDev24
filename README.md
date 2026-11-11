@@ -1,80 +1,55 @@
-<div align="center">TAHA HESARAKI
 
-💻 PYTHON DEVELOPER
+<h1 align="center">TAHA HESARAKI</h1>
 
-Software Development · Automation · AI Integration
+<h3 align="center">🩵 PYTHON DEVELOPER</h3>
 
-Building practical software with Python, structured code, and modern development tools.
+<p align="center">
+  Software Engineering · Automation · AI Integration
+</p>
 
-</div>---
-
-👨‍💻 PROFILE
-
-Python developer working across software development, automation, bot systems, and database-driven applications.
-
-Focused on writing maintainable code, integrating external services, solving technical problems, and developing functional software systems.
+<p align="center">
+  Building functional software through structured code, intelligent systems, and practical engineering.
+</p>
 
 ---
 
-⚙️ TECHNICAL SKILLS
+## 👨‍💻 PROFILE
 
-🐍 Programming & Software Development
-
-- Python
-- Object-Oriented Programming (OOP)
-- Modular Code Design
-- Debugging & Problem Solving
-
-🗄️ Backend & Data Management
-
-- SQLite Database
-- Database Design & Queries
-- JSON Data Processing
-- API Integration
-- HTTP Requests
-
-🤖 Automation & Artificial Intelligence
-
-- Bot Development
-- Workflow Automation
-- AI API Integration
-- Language Model Integration
-- Automated Response Systems
-
-📱 Application Development
-
-- Kivy
-- Graphical User Interfaces (GUI)
-- Application Logic & Event Handling
-
-🛠️ Development Tools
-
-- Git & GitHub
-- Version Control
-- Code Organization
-- Project Documentation
+Python developer focused on software development, automation, and backend systems. Building practical applications with an emphasis on code quality, system architecture, and reliable functionality.
 
 ---
 
-🧩 ENGINEERING APPROACH
+## ⚙️ TECHNICAL EXPERTISE
 
-- Clean and maintainable code
-- Structured software development
-- Efficient data management
-- Practical problem-solving
-- Modular and reusable components
-- Continuous improvement and testing
-
----
-
-🎯 DEVELOPMENT FOCUS
-
-Developing reliable software, improving existing systems, integrating useful technologies, and transforming technical concepts into functional applications.
+| Domain | Technologies & Capabilities |
+|:--|:--|
+| 🐍 **Programming** | Python · Object-Oriented Programming · Modular Architecture |
+| 🗄️ **Data Management** | SQLite · Database Design · SQL · JSON |
+| 🔗 **API Development** | REST APIs · HTTP Requests · External Service Integration |
+| 🤖 **AI & Automation** | AI API Integration · Language Models · Workflow Automation |
+| 📱 **Application Development** | Kivy · GUI Development · Event-Driven Programming |
+| 🛠️ **Development Tools** | Git · GitHub · Debugging · Version Control |
 
 ---
 
-<div align="center">⚡ CODE · BUILD · IMPROVE
+## 🧩 ENGINEERING PRINCIPLES
 
-<sub>TAHA HESARAKI | PYTHON DEVELOPER</sub>
+- **Code Quality** — Readable, maintainable, and structured code.
+- **Architecture** — Modular design and clear separation of responsibilities.
+- **Reliability** — Debugging, validation, and systematic testing.
+- **Efficiency** — Practical solutions and responsible resource usage.
+- **Integration** — Connecting applications, APIs, and data systems.
 
-</div>
+---
+
+## 🚀 DEVELOPMENT FOCUS
+
+Designing and improving software systems, developing automation solutions, integrating intelligent services, and building applications with practical functionality.
+
+---
+
+<p align="center">
+  <strong>🩵 DESIGN · DEVELOP · DELIVER</strong>
+  <br>
+  <sub>TAHA HESARAKI · PYTHON DEVELOPER</sub>
+</p>
