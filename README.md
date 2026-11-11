@@ -1,88 +1,80 @@
-<div align="center">👨‍💻 TAHA HESARAKI
+<div align="center">TAHA HESARAKI
 
+💻 PYTHON DEVELOPER
 
-🐍 Python Developer | 🤖 AI Developer | 💻 Software Development
+Software Development · Automation · AI Integration
 
-Python developer focused on building practical software and intelligent systems.
+Building practical software with Python, structured code, and modern development tools.
 
-</div>
+</div>---
 
----
+👨‍💻 PROFILE
 
-👤 About Me
+Python developer working across software development, automation, bot systems, and database-driven applications.
 
-A Python developer with experience building practical software, intelligent bots, management systems, and databases.
-
-Interested in designing complex systems, solving technical challenges, and turning ideas into useful software products.
-
----
-
-⚙️ Technical Skills
-
-🐍 Python Development
-
-- Developing structured, multi-component software
-- Object-oriented programming and process automation
-
-🤖 Artificial Intelligence
-
-- Working with AI APIs and language models
-- Designing intelligent response systems
-
-⚡ Bot Development
-
-- Developing bots for the Bale messaging platform
-- Group management, gaming, and scoring systems
-- Anti-spam and content filtering
-
-🗄️ Database Development
-
-- Designing and managing SQLite databases
-- Data management and processing
-
-🖥️ Application Development
-
-- Developing graphical interfaces with Kivy
-- Designing practical applications
-
-🔧 Development Tools
-
-- Git and GitHub
-- Debugging, version control, and working with servers
-
+Focused on writing maintainable code, integrating external services, solving technical problems, and developing functional software systems.
 
 ---
 
-🧠 Professional Capabilities
+⚙️ TECHNICAL SKILLS
 
-- Designing and developing multi-component systems
-- Analyzing problems and solving technical challenges
-- Working on complex and structured projects
-- Considering software security and extensibility
-- Learning new technologies quickly
+🐍 Programming & Software Development
+
+- Python
+- Object-Oriented Programming (OOP)
+- Modular Code Design
+- Debugging & Problem Solving
+
+🗄️ Backend & Data Management
+
+- SQLite Database
+- Database Design & Queries
+- JSON Data Processing
+- API Integration
+- HTTP Requests
+
+🤖 Automation & Artificial Intelligence
+
+- Bot Development
+- Workflow Automation
+- AI API Integration
+- Language Model Integration
+- Automated Response Systems
+
+📱 Application Development
+
+- Kivy
+- Graphical User Interfaces (GUI)
+- Application Logic & Event Handling
+
+🛠️ Development Tools
+
+- Git & GitHub
+- Version Control
+- Code Organization
+- Project Documentation
 
 ---
 
-🎯 Professional Goal
+🧩 ENGINEERING APPROACH
 
-Developing professional software, contributing to real-world projects, and building intelligent systems with Python.
-
----
-
-💼 Projects & Portfolio
-
-Visit my GitHub profile to explore my projects and review the source code.
-
-GitHub ID:
-
- https://github.com/TahaDev24
+- Clean and maintainable code
+- Structured software development
+- Efficient data management
+- Practical problem-solving
+- Modular and reusable components
+- Continuous improvement and testing
 
 ---
 
-<div align="center"></> BUILDING IDEAS INTO SOFTWARE
+🎯 DEVELOPMENT FOCUS
 
-CODE · CREATE · INNOVATE
+Developing reliable software, improving existing systems, integrating useful technologies, and transforming technical concepts into functional applications.
 
-<sub>TAHA HESARAKI · PYTHON DEVELOPER</sub>
+---
+
+<div align="center">⚡ CODE · BUILD · IMPROVE
+
+<sub>TAHA HESARAKI | PYTHON DEVELOPER</sub>
 
 </div>
