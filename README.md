@@ -1,137 +1,106 @@
-
-<div align="center">
-
-# TAHA HESARAKI
-
-### PYTHON DEVELOPER
-
-**SOFTWARE DEVELOPMENT · AUTOMATION · AI INTEGRATION**
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080B16,35:171C38,70:34306B,100:7455C8&text=TAHA%20HESARAKI&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=PYTHON%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=62&animation=fadeIn" width="100%" /><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPMENT;AUTOMATION+%26+AI+INTEGRATION;BUILDING+PRACTICAL+SOFTWARE;ENGINEERING+RELIABLE+APPLICATIONS" /><br>SOFTWARE DEVELOPMENT · AUTOMATION · AI INTEGRATION
 
 Building practical software, intelligent systems, and reliable applications through structured engineering.
 
-<br>
+<br><br>
 
-[![Python](https://img.shields.io/badge/Python-Developer-181818?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Git](https://img.shields.io/badge/Git-Version_Control-181818?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-TahaDev24-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/TahaDev24)
+""Python" (https://img.shields.io/badge/Python-Developer-181818?style=for-the-badge&logo=python&logoColor=FFD43B)" (https://www.python.org/)
+""Git" (https://img.shields.io/badge/Git-Version_Control-181818?style=for-the-badge&logo=git&logoColor=F05032)" (https://git-scm.com/)
+""GitHub" (https://img.shields.io/badge/GitHub-TahaDev24-181818?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/TahaDev24)
 
-</div>
+<br><img src="https://komarev.com/ghpvc/?username=TahaDev24&style=flat-square&color=7655C8&label=PROFILE+VIEWS" /></div>---
 
----
+<div align="center">◈ NAVIGATION
 
-## 👨‍💻 PROFESSIONAL PROFILE
+"PROFILE" (#-professional-profile) · "SKILLS" (#-technical-skills) · "ENGINEERING" (#-software-engineering) · "CAPABILITIES" (#-development-capabilities) · "PRINCIPLES" (#-development-principles) · "FOCUS" (#-current-technical-focus) · "CONNECT" (#-connect)
 
-Python developer working across software engineering, application development, automation, and AI integration.
+</div>---
+
+👨‍💻 PROFESSIONAL PROFILE
+
+<img align="right" width="120" src="https://skillicons.dev/icons?i=python&theme=dark" />Python developer working across software engineering, application development, automation, and AI integration.
 
 Focused on designing structured software systems, implementing practical solutions, integrating external services, and developing reliable applications.
 
 Combining programming fundamentals with database management, API communication, application architecture, and automation to build functional and maintainable software.
 
----
+<br clear="right"/>---
 
-## ⚙️ TECHNICAL SKILLS
+⚙️ TECHNICAL SKILLS
 
-<table>
-<tr>
-<th align="left">DOMAIN</th>
-<th align="left">TECHNOLOGIES & CAPABILITIES</th>
-</tr>
-<tr>
-<td><strong>🐍 Programming</strong></td>
-<td>Python · Object-Oriented Programming · Modular Architecture · Data Structures · Debugging</td>
-</tr>
-<tr>
-<td><strong>🗄️ Databases</strong></td>
-<td>SQLite · SQL · Database Design · Data Persistence · JSON Processing</td>
-</tr>
-<tr>
-<td><strong>🔗 Backend & APIs</strong></td>
-<td>REST APIs · HTTP Requests · API Integration · Request Handling · External Services</td>
-</tr>
-<tr>
-<td><strong>🤖 AI & Automation</strong></td>
-<td>AI API Integration · Language Models · Bot Development · Workflow Automation</td>
-</tr>
-<tr>
-<td><strong>📱 Application Development</strong></td>
-<td>Kivy · GUI Development · Event-Driven Programming · Application Logic</td>
-</tr>
-<tr>
-<td><strong>🛠️ Development Tools</strong></td>
-<td>Git · GitHub · Version Control · Repository Management · Documentation</td>
-</tr>
-</table>
+<div align="center">DOMAIN| TECHNOLOGIES & CAPABILITIES
+🐍 Programming| Python · Object-Oriented Programming · Modular Architecture · Data Structures · Debugging
+🗄️ Databases| SQLite · SQL · Database Design · Data Persistence · JSON Processing
+🔗 Backend & APIs| REST APIs · HTTP Requests · API Integration · Request Handling · External Services
+🤖 AI & Automation| AI API Integration · Language Models · Bot Development · Workflow Automation
+📱 Application Development| Kivy · GUI Development · Event-Driven Programming · Application Logic
+🛠️ Development Tools| Git · GitHub · Version Control · Repository Management · Documentation
 
----
+</div>TECHNOLOGY ICONS
 
-## 🧠 SOFTWARE ENGINEERING
+<div align="center"><img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,linux&theme=dark" /></div>---
 
-### Code Architecture
-- Modular organization and separation of responsibilities.
+🧠 SOFTWARE ENGINEERING
+
+<details open>
+<summary><strong>⌘ CODE ARCHITECTURE</strong></summary>- Modular organization and separation of responsibilities.
 - Reusable components and maintainable code structures.
 - Clear naming conventions and consistent coding practices.
 
-### Data Management
-- Structured database design and query execution.
+</details><details>
+<summary><strong>▤ DATA MANAGEMENT</strong></summary>- Structured database design and query execution.
 - Persistent data storage and retrieval.
 - Data validation and structured data processing.
 
-### Application Reliability
-- Error handling and debugging.
+</details><details>
+<summary><strong>◈ APPLICATION RELIABILITY</strong></summary>- Error handling and debugging.
 - Input validation and edge-case consideration.
 - Testing and iterative improvement.
 
-### System Integration
-- Connecting applications to external APIs.
+</details><details>
+<summary><strong>⇄ SYSTEM INTEGRATION</strong></summary>- Connecting applications to external APIs.
 - Processing HTTP responses and JSON data.
 - Integrating third-party services into software systems.
 
----
+</details>---
 
-## 🚀 DEVELOPMENT CAPABILITIES
+🚀 DEVELOPMENT CAPABILITIES
 
-| AREA | SCOPE |
-|:--|:--|
-| **Software Engineering** | Designing and implementing functional applications |
-| **Automation Systems** | Developing bots and automated workflows |
-| **AI Integration** | Connecting intelligent services to applications |
-| **Database Applications** | Building software around structured persistent data |
-| **Application Interfaces** | Developing interactive graphical interfaces |
-| **API-Based Systems** | Connecting software components and external services |
-
----
-
-## 🔍 DEVELOPMENT PRINCIPLES
-
-<details>
-<summary><strong>01 — Maintainability</strong></summary>
-
-Software should remain understandable and manageable as it evolves.
-</details>
-
-<details>
-<summary><strong>02 — Reliability</strong></summary>
-
-Application behavior should be predictable, validated, and properly handled when errors occur.
-</details>
-
-<details>
-<summary><strong>03 — Practical Engineering</strong></summary>
-
-Technical decisions should solve actual problems rather than add unnecessary complexity.
-</details>
-
-<details>
-<summary><strong>04 — Continuous Improvement</strong></summary>
-
-Existing code and systems should be reviewed, tested, optimized, and improved over time.
-</details>
+AREA| SCOPE
+Software Engineering| Designing and implementing functional applications
+Automation Systems| Developing bots and automated workflows
+AI Integration| Connecting intelligent services to applications
+Database Applications| Building software around structured persistent data
+Application Interfaces| Developing interactive graphical interfaces
+API-Based Systems| Connecting software components and external services
 
 ---
 
-## 🎯 CURRENT TECHNICAL FOCUS
+🔍 DEVELOPMENT PRINCIPLES
 
-- Improving Python architecture and software design.
+<div align="center">PRINCIPLE| ENGINEERING MINDSET
+01| Maintainability
+02| Reliability
+03| Practical Engineering
+04| Continuous Improvement
+
+</div><details>
+<summary><strong>01 — MAINTAINABILITY</strong></summary>Software should remain understandable and manageable as it evolves.
+
+</details><details>
+<summary><strong>02 — RELIABILITY</strong></summary>Application behavior should be predictable, validated, and properly handled when errors occur.
+
+</details><details>
+<summary><strong>03 — PRACTICAL ENGINEERING</strong></summary>Technical decisions should solve actual problems rather than add unnecessary complexity.
+
+</details><details>
+<summary><strong>04 — CONTINUOUS IMPROVEMENT</strong></summary>Existing code and systems should be reviewed, tested, optimized, and improved over time.
+
+</details>---
+
+🎯 CURRENT TECHNICAL FOCUS
+
+<div align="center"><img src="https://img.shields.io/badge/FOCUS-ENGINEERING-7655C8?style=for-the-badge&labelColor=101322" /></div>- Improving Python architecture and software design.
 - Developing maintainable and scalable application structures.
 - Strengthening database design and data handling.
 - Building reliable API-driven applications.
@@ -141,14 +110,30 @@ Existing code and systems should be reviewed, tested, optimized, and improved ov
 
 ---
 
-## 🌐 CONNECT
+📊 GITHUB ANALYTICS
 
-<div align="center">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TahaDev24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaDev24&layout=compact&theme=tokyonight&hide_border=true" width="42%" /><br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Repositories-24292f?style=for-the-badge&logo=github)](https://github.com/TahaDev24)
+<img src="https://streak-stats.demolab.com?user=TahaDev24&theme=tokyonight&hide_border=true" width="75%" /></div>---
 
-**TAHA HESARAKI**
+🌌 CONTRIBUTION ACTIVITY
 
-<sub>PYTHON DEVELOPER · SOFTWARE DEVELOPMENT</sub>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaDev24&theme=tokyo-night&hide_border=true&area=true&custom_title=CONTRIBUTION%20TIMELINE" width="100%" /></div>---
 
-</div>
+🌐 CONNECT
+
+<div align="center"><a href="https://github.com/TahaDev24">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20REPOSITORIES-181818?style=for-the-badge&logo=github&logoColor=white" />
+</a><br><br>
+
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" /><br><br>
+
+TAHA HESARAKI
+
+PYTHON DEVELOPER · SOFTWARE DEVELOPMENT
+
+<br>"DESIGN → ENGINEER → BUILD → IMPROVE"
+
+<br><sub>Built with curiosity. Driven by engineering. Focused on meaningful software.</sub>
+
+<br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7655C8,50:34306B,100:080B16&height=3&section=footer" width="100%" /></div>
