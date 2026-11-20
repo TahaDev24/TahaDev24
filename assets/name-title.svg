@@ -3,7 +3,7 @@
   <defs>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#DCE8F2"/>
-      <stop offset="48%" stop-color="#62C8F5"/>
+      <stop offset="48%" stop-color="#D1D5DB"/>
       <stop offset="100%" stop-color="#F1F6FA"/>
       <animate attributeName="x1" values="-1;1;-1" dur="8s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="0;2;0" dur="8s" repeatCount="indefinite"/>
@@ -15,9 +15,9 @@
   </defs>
   <rect width="900" height="150" fill="none"/>
   <text x="450" y="88" text-anchor="middle" fill="url(#name)" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="5" filter="url(#glow)">TAHA HESARAKI</text>
-  <path d="M190 112 H710" fill="none" stroke="#1B83BC" stroke-width="2" opacity=".8">
+  <path d="M190 112 H710" fill="none" stroke="#A8B0BA" stroke-width="2" opacity=".8">
     <animate attributeName="stroke-dasharray" values="0 520;520 0;0 520" dur="6s" repeatCount="indefinite"/>
   </path>
-  <circle cx="190" cy="112" r="3" fill="#62C8F5"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="190" cy="112" r="3" fill="#D1D5DB"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle>
   <circle cx="710" cy="112" r="3" fill="#DCE8F2"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
 </svg>
