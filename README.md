@@ -54,27 +54,77 @@ I value continuous learning, thoughtful problem-solving, and projects that demon
 
 <img src="./assets/animated-divider.svg" width="100%" alt="" />
 
-## Featured Projects
+## SELECTED WORK
 
 <div align="center">
 
-<a href="https://github.com/TahaDev24/NEON-OVERDRIVE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaDev24&repo=NEON-OVERDRIVE&theme=github_dark&hide_border=true&bg_color=080B10&title_color=C7D0DA" alt="NEON OVERDRIVE" />
-</a>
-<a href="https://github.com/TahaDev24/Python-Scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaDev24&repo=Python-Scanner&theme=github_dark&hide_border=true&bg_color=080B10&title_color=C7D0DA" alt="Python Scanner" />
-</a>
-<a href="https://github.com/TahaDev24/HTML-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaDev24&repo=HTML-Projects&theme=github_dark&hide_border=true&bg_color=080B10&title_color=C7D0DA" alt="HTML Projects" />
-</a>
-<a href="https://github.com/TahaDev24/Python-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaDev24&repo=Python-Projects&theme=github_dark&hide_border=true&bg_color=080B10&title_color=C7D0DA" alt="Python Projects" />
-</a>
-<a href="https://github.com/TahaDev24/PYTHON-HUB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaDev24&repo=PYTHON-HUB&theme=github_dark&hide_border=true&bg_color=080B10&title_color=C7D0DA" alt="PYTHON HUB" />
-</a>
+<sub>A SELECTION OF PROJECTS, TOOLS & EXPERIMENTS</sub>
 
 </div>
+
+<table>
+<tr>
+<td colspan="2" width="100%">
+
+<a href="https://github.com/TahaDev24/NEON-OVERDRIVE"><strong>01 / NEON OVERDRIVE ↗</strong></a>
+
+<sub>INTERACTIVE BROWSER GAME</sub>
+
+A neon rhythm-platformer built around fast movement, responsive controls, dynamic levels, and a cyberpunk atmosphere.
+
+<img src="https://img.shields.io/badge/HTML5-111820?style=flat-square&logo=html5&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/CSS3-111820?style=flat-square&logo=css3&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/Canvas-111820?style=flat-square&logoColor=C7D0DA" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TahaDev24/PYTHON-HUB"><strong>02 / PYTHON HUB ↗</strong></a>
+
+<sub>PYTHON ECOSYSTEM WORKSPACE</sub>
+
+A modular workspace concept bringing Python tools, workflows, and integrations into one consistent environment.
+
+<img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/FastAPI-111820?style=flat-square&logo=fastapi&logoColor=C7D0DA" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TahaDev24/Python-Scanner"><strong>03 / PYTHON SCANNER ↗</strong></a>
+
+<sub>CODE ANALYSIS TOOL</sub>
+
+A Python-focused scanning utility with a mobile-friendly interface and a foundation for code quality and security checks.
+
+<img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/Kivy-111820?style=flat-square&logo=kivy&logoColor=C7D0DA" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TahaDev24/HTML-Projects"><strong>04 / HTML PROJECTS ↗</strong></a>
+
+<sub>WEB & BROWSER EXPERIENCES</sub>
+
+A collection of browser-based projects, including The Last Crown and Jumong: Dragon Path.
+
+<img src="https://img.shields.io/badge/HTML5-111820?style=flat-square&logo=html5&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/CSS3-111820?style=flat-square&logo=css3&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=C7D0DA" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TahaDev24/Python-Projects"><strong>05 / PYTHON PROJECTS ↗</strong></a>
+
+<sub>PYTHON TOOLS & APPLICATIONS</sub>
+
+A collection of Python experiments, utilities, automation projects, and practical applications.
+
+<img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=C7D0DA" />
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/animated-divider.svg" width="100%" alt="" />
 
