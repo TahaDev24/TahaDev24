@@ -58,27 +58,79 @@ I value continuous learning, thoughtful problem-solving, and projects that demon
 
 <div align="center">
 
-<sub>BLACK / SILVER — A SELECTION OF THINGS I BUILD</sub>
+<sub>SELECTED BUILDS　/　SOFTWARE · GAMES · TOOLS</sub>
 
-<br/><br/>
+</div>
 
-<a href="https://github.com/TahaDev24/NEON-OVERDRIVE"><img src="./assets/project-neon.svg" width="100%" alt="NEON OVERDRIVE — featured project" /></a>
+<br/>
 
-<sub><a href="https://tahadev24.github.io/NEON-OVERDRIVE/">PLAY THE GAME ↗</a>　 /　 <a href="https://github.com/TahaDev24/NEON-OVERDRIVE">SOURCE CODE ↗</a></sub>
+### <sub>01 / GAME DEVELOPMENT</sub>
 
-<br/><br/>
+# NEON OVERDRIVE
 
-<a href="https://github.com/TahaDev24/PYTHON-HUB"><img src="./assets/project-python-hub.svg" width="49%" alt="Python Hub" /></a>
-<a href="https://github.com/TahaDev24/Python-Scanner"><img src="./assets/project-scanner.svg" width="49%" alt="Python Scanner" /></a>
+An original browser-based rhythm platformer focused on timing, precision, and progression. The game is designed around **10 distinct zones**, with new challenges introduced as players advance. Its core experience combines responsive movement, obstacle patterns, checkpoints, collectibles, and a final boss encounter.
 
-<br/><br/>
+Built with a custom **Canvas 2D** game loop and browser technologies, with keyboard and touch input in mind.
 
-<a href="https://github.com/TahaDev24/HTML-Projects"><img src="./assets/project-html.svg" width="49%" alt="HTML Projects" /></a>
-<a href="https://github.com/TahaDev24/Python-Projects"><img src="./assets/project-python.svg" width="49%" alt="Python Projects" /></a>
+<sub>HTML　·　CSS　·　JAVASCRIPT　·　CANVAS 2D</sub>
 
-<br/><br/>
+<sub><a href="https://tahadev24.github.io/NEON-OVERDRIVE/">PLAY THE GAME ↗</a>　/　<a href="https://github.com/TahaDev24/NEON-OVERDRIVE">SOURCE ↗</a></sub>
 
-<a href="https://github.com/TahaDev24?tab=repositories"><sub>EXPLORE ALL REPOSITORIES ↗</sub></a>
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
+
+### <sub>02 / PYTHON ECOSYSTEM</sub>
+
+# PYTHON HUB
+
+A central workspace project aimed at bringing useful Python utilities and development workflows together. Instead of treating every tool as a separate little script, the idea is to build a more consistent environment where tools can be organized, extended, and used together.
+
+<sub>PYTHON　·　DEVELOPER TOOLS　·　WORKFLOWS</sub>
+
+<sub><a href="https://github.com/TahaDev24/PYTHON-HUB">SOURCE & PROJECT DETAILS ↗</a></sub>
+
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
+
+### <sub>03 / CODE ANALYSIS</sub>
+
+# PYTHON SCANNER
+
+A local-first tool for inspecting Python code and understanding project structure. It is built to help developers review source files, identify potential issues, and get a clearer picture of their codebase through structured analysis and reports.
+
+The project combines Python's **AST-based analysis** with a desktop interface, while keeping the workflow focused on inspecting local projects.
+
+<sub>PYTHON　·　AST　·　KIVY　·　STATIC ANALYSIS</sub>
+
+<sub><a href="https://github.com/TahaDev24/Python-Scanner">SOURCE & PROJECT DETAILS ↗</a></sub>
+
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
+
+### <sub>04 / INTERACTIVE WEB PROJECTS</sub>
+
+# HTML PROJECTS
+
+A collection of browser-based experiences, including **The Last Crown** and **Jumong: Dragon Path**. These projects explore game interfaces, interactive systems, progression, and presentation directly in the browser—without requiring a traditional desktop installation.
+
+<sub>HTML　·　CSS　·　JAVASCRIPT　·　BROWSER GAMES</sub>
+
+<sub><a href="https://github.com/TahaDev24/HTML-Projects">SOURCE & PROJECT DETAILS ↗</a></sub>
+
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
+
+### <sub>05 / APPLICATIONS & AUTOMATION</sub>
+
+# PYTHON PROJECTS
+
+A portfolio of independent Python applications and experiments, ranging from utilities and automation to bots and data-driven tools. The collection includes projects such as **Safabat**, **Jumong Bot**, **DB Master**, **File Organizer**, and **World War 4**—each built to explore a different practical use of Python.
+
+<sub>PYTHON　·　SQLITE　·　KIVY　·　AUTOMATION　·　BOTS</sub>
+
+<sub><a href="https://github.com/TahaDev24/Python-Projects">SOURCE & PROJECT DETAILS ↗</a></sub>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/TahaDev24?tab=repositories"><sub>DISCOVER MORE WORK ↗</sub></a>
 
 </div>
 
