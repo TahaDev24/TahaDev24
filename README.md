@@ -1,6 +1,6 @@
 <div align="center">
 
-# TAHA HESARAKI
+<img src="./assets/name-title.svg" width="100%" alt="TAHA HESARAKI" />
 
 ### Python Developer · Software Creator · AI & Machine Learning
 
