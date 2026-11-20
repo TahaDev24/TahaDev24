@@ -58,91 +58,27 @@ I value continuous learning, thoughtful problem-solving, and projects that demon
 
 <div align="center">
 
-<sub>SOFTWARE · GAMES · DEVELOPER TOOLS · AI</sub>
+<sub>BLACK / SILVER — A SELECTION OF THINGS I BUILD</sub>
 
-**A closer look at what I build.**
+<br/><br/>
 
-</div>
+<a href="https://github.com/TahaDev24/NEON-OVERDRIVE"><img src="./assets/project-neon.svg" width="100%" alt="NEON OVERDRIVE — featured project" /></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub><a href="https://tahadev24.github.io/NEON-OVERDRIVE/">PLAY THE GAME ↗</a>　 /　 <a href="https://github.com/TahaDev24/NEON-OVERDRIVE">SOURCE CODE ↗</a></sub>
 
-<sub>01 — GAME DEVELOPMENT</sub>
+<br/><br/>
 
-### <a href="https://github.com/TahaDev24/NEON-OVERDRIVE">NEON OVERDRIVE ↗</a>
+<a href="https://github.com/TahaDev24/PYTHON-HUB"><img src="./assets/project-python-hub.svg" width="49%" alt="Python Hub" /></a>
+<a href="https://github.com/TahaDev24/Python-Scanner"><img src="./assets/project-scanner.svg" width="49%" alt="Python Scanner" /></a>
 
-A browser-based rhythm platformer built around precision, progression, and fast-paced gameplay. Features 10 zones and a final boss encounter.
+<br/><br/>
 
-<sub>HTML · CSS · JAVASCRIPT · CANVAS</sub>
+<a href="https://github.com/TahaDev24/HTML-Projects"><img src="./assets/project-html.svg" width="49%" alt="HTML Projects" /></a>
+<a href="https://github.com/TahaDev24/Python-Projects"><img src="./assets/project-python.svg" width="49%" alt="Python Projects" /></a>
 
-<a href="https://tahadev24.github.io/NEON-OVERDRIVE/">PLAY THE GAME ↗</a>
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
-
-<sub>02 — PYTHON ECOSYSTEM</sub>
-
-### <a href="https://github.com/TahaDev24/PYTHON-HUB">PYTHON HUB ↗</a>
-
-A modular workspace in development, bringing Python tools, workflows, and integrations into one consistent environment.
-
-<sub>PYTHON · FASTAPI · CLI · WEB</sub>
-
-<a href="https://github.com/TahaDev24/PYTHON-HUB">VIEW REPOSITORY ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub>03 — CODE INTELLIGENCE</sub>
-
-### <a href="https://github.com/TahaDev24/Python-Scanner">PYTHON SCANNER ↗</a>
-
-A local-first code analysis tool for inspecting Python projects, with command-line and desktop interfaces and structured reports.
-
-<sub>PYTHON · AST · KIVY · CLI</sub>
-
-<a href="https://github.com/TahaDev24/Python-Scanner">VIEW REPOSITORY ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<sub>04 — WEB EXPERIENCES</sub>
-
-### <a href="https://github.com/TahaDev24/HTML-Projects">HTML PROJECTS ↗</a>
-
-A collection of browser experiences, including **The Last Crown** and **Jumong: Dragon Path**.
-
-<sub>HTML · CSS · JAVASCRIPT · CANVAS</sub>
-
-<a href="https://github.com/TahaDev24/HTML-Projects">EXPLORE COLLECTION ↗</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<sub>05 — APPLICATIONS & AUTOMATION</sub>
-
-### <a href="https://github.com/TahaDev24/Python-Projects">PYTHON PROJECTS ↗</a>
-
-Independent Python applications, utilities, and bots — including DB Master Pro, File Organizer, Jumong Bot, Safabat, and World War 4.
-
-<sub>PYTHON · KIVY · SQLITE · AUTOMATION</sub>
-
-<a href="https://github.com/TahaDev24/Python-Projects">EXPLORE COLLECTION ↗</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>BLACK CANVAS · SILVER DETAILS · BUILT TO SHIP</sub>
-
-<a href="https://github.com/TahaDev24?tab=repositories">VIEW ALL REPOSITORIES ↗</a>
+<a href="https://github.com/TahaDev24?tab=repositories"><sub>EXPLORE ALL REPOSITORIES ↗</sub></a>
 
 </div>
 
