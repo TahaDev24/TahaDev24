@@ -22,13 +22,17 @@
 
 ## About Me
 
-I'm **Taha Hesaraki**, a developer interested in creating practical software, automation tools, bots, and AI experiments.
+I'm **Taha Hesaraki**, a software developer focused on building practical applications and turning ideas into working products. I primarily work with **Python**, and also build for the web using **HTML, CSS, and JavaScript**.
 
-I enjoy working across the whole process: planning an idea, writing the code, building the interface, and improving the result.
+My work spans software tools, automation, bots, desktop and mobile interfaces, and hands-on experiments in **AI and Machine Learning**. I’m interested in the engineering behind a project—not just getting code to run, but understanding the problem, choosing a suitable approach, and refining the result.
 
-- **Main language:** Python
-- **Interests:** Software development, AI & Machine Learning, automation, and web technologies
-- **Approach:** Build real projects, keep learning, and improve through practice.
+**What I focus on**
+- **Software development:** Designing and implementing useful, maintainable applications.
+- **Automation & tools:** Building utilities and bots that simplify repetitive tasks.
+- **AI & Machine Learning:** Exploring model development and practical ML workflows.
+- **Web development:** Creating clear, functional interfaces and browser-based projects.
+
+I value continuous learning, thoughtful problem-solving, and projects that demonstrate real functionality.
 
 <img src="./assets/animated-divider.svg" width="100%" alt="" />
 
@@ -82,9 +86,6 @@ I enjoy working across the whole process: planning an idea, writing the code, bu
 
 <img width="85%" src="https://streak-stats.demolab.com?user=TahaDev24&hide_border=true&background=080B10&ring=168BDB&fire=62C8F5&currStreakLabel=62C8F5&sideLabels=D3DCE6&dates=8795A8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TahaDev24&bg_color=080B10&color=D3DCE6&line=168BDB&point=62C8F5&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution graph" />
 
 </div>
 
