@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:080B16,35:171C38,70:34306B,100:7455C8&text=TAHA%20HESARAKI&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=PYTHON%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="./banner.svg" width="100%" alt="Taha Hesaraki — TA developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPMENT;AUTOMATION+%26+AI+INTEGRATION;BUILDING+PRACTICAL+SOFTWARE;ENGINEERING+RELIABLE+APPLICATIONS" />
 
 ### PYTHON DEVELOPER
 
