@@ -70,6 +70,9 @@ I value continuous learning, thoughtful problem-solving, and projects that demon
 <a href="https://github.com/TahaDev24/Python-Projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaDev24&repo=Python-Projects&theme=github_dark&hide_border=true&bg_color=080B10&title_color=C7D0DA" alt="Python Projects" />
 </a>
+<a href="https://github.com/TahaDev24/PYTHON-HUB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaDev24&repo=PYTHON-HUB&theme=github_dark&hide_border=true&bg_color=080B10&title_color=C7D0DA" alt="PYTHON HUB" />
+</a>
 
 </div>
 
