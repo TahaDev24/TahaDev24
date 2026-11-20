@@ -58,73 +58,93 @@ I value continuous learning, thoughtful problem-solving, and projects that demon
 
 <div align="center">
 
-<sub>A SELECTION OF PROJECTS, TOOLS & EXPERIMENTS</sub>
+<sub>SOFTWARE · GAMES · DEVELOPER TOOLS · AI</sub>
+
+**A closer look at what I build.**
 
 </div>
 
 <table>
 <tr>
-<td colspan="2" width="100%">
+<td width="50%" valign="top">
 
-<a href="https://github.com/TahaDev24/NEON-OVERDRIVE"><strong>01 / NEON OVERDRIVE ↗</strong></a>
+<sub>01 — GAME DEVELOPMENT</sub>
 
-<sub>INTERACTIVE BROWSER GAME</sub>
+### <a href="https://github.com/TahaDev24/NEON-OVERDRIVE">NEON OVERDRIVE ↗</a>
 
-A neon rhythm-platformer built around fast movement, responsive controls, dynamic levels, and a cyberpunk atmosphere.
+A browser-based rhythm platformer built around precision, progression, and fast-paced gameplay. Features 10 zones and a final boss encounter.
 
-<img src="https://img.shields.io/badge/HTML5-111820?style=flat-square&logo=html5&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/CSS3-111820?style=flat-square&logo=css3&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/Canvas-111820?style=flat-square&logoColor=C7D0DA" />
+<sub>HTML · CSS · JAVASCRIPT · CANVAS</sub>
+
+<a href="https://tahadev24.github.io/NEON-OVERDRIVE/">PLAY THE GAME ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>02 — PYTHON ECOSYSTEM</sub>
+
+### <a href="https://github.com/TahaDev24/PYTHON-HUB">PYTHON HUB ↗</a>
+
+A modular workspace in development, bringing Python tools, workflows, and integrations into one consistent environment.
+
+<sub>PYTHON · FASTAPI · CLI · WEB</sub>
+
+<a href="https://github.com/TahaDev24/PYTHON-HUB">VIEW REPOSITORY ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TahaDev24/PYTHON-HUB"><strong>02 / PYTHON HUB ↗</strong></a>
+<sub>03 — CODE INTELLIGENCE</sub>
 
-<sub>PYTHON ECOSYSTEM WORKSPACE</sub>
+### <a href="https://github.com/TahaDev24/Python-Scanner">PYTHON SCANNER ↗</a>
 
-A modular workspace concept bringing Python tools, workflows, and integrations into one consistent environment.
+A local-first code analysis tool for inspecting Python projects, with command-line and desktop interfaces and structured reports.
 
-<img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/FastAPI-111820?style=flat-square&logo=fastapi&logoColor=C7D0DA" />
+<sub>PYTHON · AST · KIVY · CLI</sub>
+
+<a href="https://github.com/TahaDev24/Python-Scanner">VIEW REPOSITORY ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TahaDev24/Python-Scanner"><strong>03 / PYTHON SCANNER ↗</strong></a>
+<sub>04 — WEB EXPERIENCES</sub>
 
-<sub>CODE ANALYSIS TOOL</sub>
+### <a href="https://github.com/TahaDev24/HTML-Projects">HTML PROJECTS ↗</a>
 
-A Python-focused scanning utility with a mobile-friendly interface and a foundation for code quality and security checks.
+A collection of browser experiences, including **The Last Crown** and **Jumong: Dragon Path**.
 
-<img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/Kivy-111820?style=flat-square&logo=kivy&logoColor=C7D0DA" />
+<sub>HTML · CSS · JAVASCRIPT · CANVAS</sub>
+
+<a href="https://github.com/TahaDev24/HTML-Projects">EXPLORE COLLECTION ↗</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-<a href="https://github.com/TahaDev24/HTML-Projects"><strong>04 / HTML PROJECTS ↗</strong></a>
+<sub>05 — APPLICATIONS & AUTOMATION</sub>
 
-<sub>WEB & BROWSER EXPERIENCES</sub>
+### <a href="https://github.com/TahaDev24/Python-Projects">PYTHON PROJECTS ↗</a>
 
-A collection of browser-based projects, including The Last Crown and Jumong: Dragon Path.
+Independent Python applications, utilities, and bots — including DB Master Pro, File Organizer, Jumong Bot, Safabat, and World War 4.
 
-<img src="https://img.shields.io/badge/HTML5-111820?style=flat-square&logo=html5&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/CSS3-111820?style=flat-square&logo=css3&logoColor=C7D0DA" /> <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=C7D0DA" />
+<sub>PYTHON · KIVY · SQLITE · AUTOMATION</sub>
 
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TahaDev24/Python-Projects"><strong>05 / PYTHON PROJECTS ↗</strong></a>
-
-<sub>PYTHON TOOLS & APPLICATIONS</sub>
-
-A collection of Python experiments, utilities, automation projects, and practical applications.
-
-<img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=C7D0DA" />
+<a href="https://github.com/TahaDev24/Python-Projects">EXPLORE COLLECTION ↗</a>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<sub>BLACK CANVAS · SILVER DETAILS · BUILT TO SHIP</sub>
+
+<a href="https://github.com/TahaDev24?tab=repositories">VIEW ALL REPOSITORIES ↗</a>
+
+</div>
 
 <img src="./assets/animated-divider.svg" width="100%" alt="" />
 
