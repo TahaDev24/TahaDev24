@@ -42,7 +42,9 @@ I enjoy working across the whole process: planning an idea, writing the code, bu
 
 **Frameworks, Data & Tools**
 
-<img src="https://skillicons.dev/icons?i=kivy,sqlite,pytorch,sklearn,git,github,vscode&theme=dark" alt="Kivy, SQLite, PyTorch, scikit-learn, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=sqlite,pytorch,git,github,vscode&theme=dark" alt="SQLite, PyTorch, Git, GitHub, VS Code" />
+
+<img src="https://img.shields.io/badge/Kivy-Framework-111820?style=flat-square&logo=kivy&logoColor=62C8F5" alt="Kivy" /> <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-111820?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
 
 </div>
 
