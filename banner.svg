@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="700" viewBox="0 0 1920 700">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#030508"/><stop offset=".52" stop-color="#080d16"/><stop offset="1" stop-color="#020407"/></linearGradient>
+ <linearGradient id="silver" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".48" stop-color="#aeb8c7"/><stop offset="1" stop-color="#596678"/></linearGradient>
+ <linearGradient id="blue"><stop stop-color="#007bff"/><stop offset=".5" stop-color="#28c8ff"/><stop offset="1" stop-color="#0054c8"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#18314d" stroke-width="1" opacity=".25"/></pattern>
+</defs>
+<rect width="1920" height="700" fill="url(#bg)"/><rect width="1920" height="700" fill="url(#grid)"/>
+<path d="M0 0H450L250 190H0ZM1920 0H1660L1450 210H1920ZM0 700H300L520 520H0ZM1920 700H1650L1450 540H1920Z" fill="#111821" stroke="#34465d" stroke-width="2"/>
+<path d="M0 175L180 0M1740 0L1920 180M0 560L180 700M1740 700L1920 540" stroke="url(#blue)" stroke-width="4" filter="url(#glow)"/>
+<path d="M610 80V330" stroke="url(#blue)" stroke-width="3" filter="url(#glow)"/>
+<g transform="translate(90 88)">
+ <path d="M20 30H350L300 88H155L70 200V88H20Z" fill="url(#silver)" stroke="#d9efff" stroke-width="3"/>
+ <path d="M92 210L235 65L365 210H278L235 160L145 250Z" fill="#050a12" stroke="url(#blue)" stroke-width="10" filter="url(#glow)"/>
+ <text x="185" y="285" fill="#69cfff" font-family="Arial,sans-serif" font-size="20" letter-spacing="8" text-anchor="middle">TA / DEV</text>
+</g>
+<text x="690" y="165" fill="url(#silver)" font-family="Arial,sans-serif" font-size="86" font-weight="700" letter-spacing="2">Taha Hesaraki</text>
+<text x="700" y="235" fill="#dce8f7" font-family="Arial,sans-serif" font-size="38" letter-spacing="10">PYTHON DEVELOPER  •  SOFTWARE CREATOR</text>
+<text x="700" y="292" fill="#39bfff" font-family="Arial,sans-serif" font-size="29" letter-spacing="8">BUILD  •  INNOVATE  •  CREATE</text>
+<text x="1780" y="92" fill="#d7e5f5" font-family="Arial,sans-serif" font-size="20" letter-spacing="4" text-anchor="end">CODE TODAY</text>
+<text x="1780" y="125" fill="#d7e5f5" font-family="Arial,sans-serif" font-size="20" letter-spacing="4" text-anchor="end">A BETTER TOMORROW</text>
+<path d="M55 365H1865L1825 475H95Z" fill="#050b13" stroke="#087dd8" stroke-width="2"/>
+<text x="95" y="430" fill="#36bfff" font-family="Arial,sans-serif" font-size="28" font-weight="700">TECH STACK</text>
+<g font-family="Arial,sans-serif" font-size="26" fill="#e6edf7" text-anchor="middle">
+ <text x="410" y="420">Python</text><text x="600" y="420">C++</text><text x="790" y="420">HTML</text><text x="980" y="420">CSS</text><text x="1170" y="420">JavaScript</text><text x="1360" y="420">Kivy</text><text x="1550" y="420">SQLite</text><text x="1740" y="420">PyTorch · ML</text>
+</g>
+<g stroke="#24415f" stroke-width="2"><path d="M500 385V445M690 385V445M880 385V445M1070 385V445M1260 385V445M1450 385V445M1640 385V445"/></g>
+<path d="M55 500H1865V620H55Z" fill="#060b12" stroke="#087dd8" stroke-width="2"/>
+<text x="95" y="548" fill="#36bfff" font-family="Arial,sans-serif" font-size="27" font-weight="700">CONTACT</text>
+<text x="95" y="590" fill="#e6edf7" font-family="Arial,sans-serif" font-size="22">tahahesaraki2@gmail.com</text>
+<text x="790" y="590" fill="#e6edf7" font-family="Arial,sans-serif" font-size="22">linkedin.com/in/taha-hesaraki-8a5281451</text>
+<text x="1515" y="590" fill="#e6edf7" font-family="Arial,sans-serif" font-size="22">tahadev24.github.io</text>
+<path d="M55 650H1865" stroke="url(#blue)" stroke-width="3" filter="url(#glow)"/>
+</svg>
